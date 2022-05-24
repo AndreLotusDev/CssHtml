@@ -1,0 +1,129 @@
+/*
+**************Formatacao de ID**************
+*/
+
+#textoHome
+{
+	font-size: 2em;
+	padding: 20px;
+}
+
+#barraDeOpc
+{
+	font-size: 1em;
+	padding: 15px;
+}
+
+#cabecalho
+{
+	text-align: center;
+	background-color: #D0E443;
+}
+
+#postagem
+{
+	margin-top: 20px;
+	margin-left: 150px;
+	width: 650px;
+}
+
+#lateral
+{
+	margin-top: 20px;
+	margin-right: 150px;
+	width: 300px;
+	border: 1px solid black;
+}
+
+#leiaMais
+{
+	font-size: 1em;
+	color: black;
+}
+
+#cabecalhoLateral
+{
+	padding-left: 10px;
+	padding: 5px 0px;
+	background-color: #9C9F98 ;
+	font-size: 1.3em;
+}
+
+#textoDeChamada
+{
+	margin: 10px;
+}
+
+/*
+**************Formatacao Geral**************
+*/
+
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+.branco
+{
+	color: white;
+	font-weight: bold;
+}
+
+.borda
+{
+	border: 1px solid black;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+
+.remove
+{
+	all: unset;
+}
+/*
+**************Formatacao do MENU**************
+*/
+
+#cabecalho a
+{
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+#cabecalho a:visited, a:link
+{
+	color:white ;
+	padding: 8px 12px;
+}
+
+#cabecalho a:hover
+{
+	color: black;
+	background: #F1EB64;
+}
+
+/*
+**************Formatacao de ferramentas do proprio HTML**************
+*/
+
+body
+{
+	background: #F2F9F6;
+	font-family: "Trebutchet MS", "Helvetica", sans-serif;
+}
+
+img
+{
+	margin: 10px;
+	max-width:80%;
+	max-height:80%;
+}
+
+a
+{
+	color: #FFC300 ;
+}

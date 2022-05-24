@@ -1,0 +1,72 @@
+
+/*#caixa
+{
+	width: 300px;
+	height: 800px;
+	background: #b9c941;
+	padding: 25px;
+	border-radius: 10px;
+	margin: 10px;
+	box-sizing: border-box;
+}
+
+#caixa2
+{
+	position: absolute;
+	top: 0;
+	right: 50%;
+	float: right;
+	background: #b9c941;
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	background: url(../images/camera.png);
+	background-size: 100%;
+}
+
+#caixa h1
+{
+	background-color: rgba(255,255,255,0.5);
+	background: linear-gradient(red,blue);
+}
+
+@keyframes animacao-caixa
+{
+	from
+	{
+		background: red;
+		border-radius: 0px;
+	}
+	to
+	{
+		background: blue;
+		border-radius: 300px;
+	}
+}
+
+#box
+{
+	width: 300px;
+	height: 300px;
+	padding: 8px;
+	margin: 20px;
+	background-color: red;
+	animation-name: animacao-caixa;
+	animation-duration:5s;
+	animation-delay: 1s;
+	animation-iteration-count: 100;
+	animation-direction: alternate;
+	animation: animacao-caixa 3s 1s 100 alternate;
+}
+
+#box h1
+{
+	color: white;
+	font-size: 20px;
+} */
+
+#boxbox:hover
+{
+	width: 300px;
+	background: yellow;
+}

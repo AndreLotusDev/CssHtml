@@ -1,0 +1,52 @@
+body
+{
+	font-family: "Trebuchet MS", "Helvetica", sans-serif;
+	background: #f2f2f2;
+}
+
+#container
+{
+	width: 80%;
+	margin: 0px auto;
+	background:orange;
+	min-width: 720px;
+} 
+
+#marca
+{
+	height: 100px;
+	background: #9E9E9E;
+	text-align: center;
+	line-height: 100px;
+}
+
+#conteudo
+{
+	width: 74.28%;
+	float: right;
+}
+
+#navegacao
+{
+	width: 25.72%;
+	height: 500px;
+	float: left;
+	padding: 20px 0px;
+	background: #d1d1d1
+}
+
+#rodape
+{
+	clear: both;
+	background: #c4c4c4;
+	padding: 5px;
+}
+
+ul
+{
+	list-style: none;
+}
+
+li a{
+	text-decoration: none;
+}
